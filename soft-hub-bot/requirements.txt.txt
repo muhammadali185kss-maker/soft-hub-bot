@@ -1,4 +1,0 @@
-aiogram==3.18.0
-google-genai
-aiohttp
-gtts
